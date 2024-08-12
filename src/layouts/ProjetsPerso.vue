@@ -24,9 +24,9 @@ import TimelineItem from "../components/timeline-item.vue";
           </span>
         </h4>
         <div class="mt-0.5">
-          - Développement d’une SAAS (Software as a Service) en utilisant
+          - Développement d’un SAAS (Software as a Service) en utilisant
           des technologies décentralisées <br>
-          - Projet récompensé par 2 prix
+<!--          - Projet récompensé par 2 prix -->
         </div>
       </TimelineItem>
 
