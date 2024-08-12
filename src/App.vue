@@ -6,14 +6,14 @@ import ProjetsPerso from "./layouts/ProjetsPerso.vue";
 </script>
 
 <template>
-  <a download="CV Stani Gam.pdf" href="/cv.pdf">
+  <a download="CV Stani Gam.pdf" href="/CV Stani Gam.pdf">
     <button class="hidden absolute top-0 left-0 m-4 btn btn-info lg:block">
       Télécharger le cv
     </button>
   </a>
 
   <div class="flex items-stretch w-full h-full relative">
-    <a download="CV Stani Gam.pdf" href="/cv.pdf">
+    <a download="CV Stani Gam.pdf" href="/CV Stani Gam.pdf">
       <button class="absolute m-4 btn btn-info btn-sm top-0 right-0 print:hidden
             lg:hidden">
         Télécharger le cv
