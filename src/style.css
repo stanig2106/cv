@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button {
+    text-transform: none !important;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+.one-line, .\>\:one-line > *, .\*\:one-line * {
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+@layer base {
+    .flex-center {
+        @apply flex justify-center items-center;
+    }
+
+    .text-muted {
+        @apply text-gray-500;
+    }
+
+    h1, .h1 {
+        @apply text-4xl;
+    }
+
+    h2, .h2 {
+        @apply text-3xl;
+    }
+
+    h3, .h3 {
+        @apply text-2xl;
+    }
+
+    h4, .h4 {
+        @apply text-xl;
+    }
+
+    h5, .h5 {
+        @apply text-lg;
+    }
+
+    h6, .h6 {
+        @apply text-base;
+    }
+
+    .link {
+        @apply text-blue-500 underline;
+    }
+}
+
+.v-card * {
+    --v-focus-opacity: 0 !important;
+    --v-hover-opacity: 0 !important;
+}
+
+
