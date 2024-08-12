@@ -1,6 +1,6 @@
 <script lang="ts" setup>
-import linkedin from "../../assets/linkedin.png";
-import github from "../../assets/github.png";
+import linkedin from "../../assets/linkedin.webp";
+import github from "../../assets/github.webp";
 import SidebarTitle from "../../components/sidebar-title.vue";
 </script>
 <template>

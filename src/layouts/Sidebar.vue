@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-import pp from "../assets/pp.png";
+import pp from "../assets/pp.webp";
 import Informations from "./sidebar/Informations.vue";
 import Formations from "./sidebar/Formations.vue";
 import Competences from "./sidebar/Competences.vue";
