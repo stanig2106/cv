@@ -87,7 +87,7 @@ import TimelineItem from "../components/timeline-item.vue";
       <TimelineItem>
         <template #date>
           Juil. 2021 <br>
-          Déc. 2024 <br>
+          Déc. 2023 <br>
           (2 ans 6 mois)
         </template>
 
