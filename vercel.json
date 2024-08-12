@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/download",
+      "destination": "/CV%20Stani%20Gam.pdf"
+    }
+  ]
+}
