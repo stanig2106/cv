@@ -22,9 +22,9 @@ import TimelineItem from "../components/timeline-item.vue";
                target="_blank">Superhack 2024</a>
           </span>
         </h4>
-        <div class="mt-0.5 text-justify">
+        <div class="text-justify">
           - Développement d’un SAAS (Software as a Service) en utilisant
-          des technologies décentralisées <br>
+          des technologies décentralisées
 <!--          - Projet récompensé par 2 prix -->
         </div>
       </TimelineItem>
@@ -41,7 +41,7 @@ import TimelineItem from "../components/timeline-item.vue";
           </span>
         </h4>
         <div class="mt-0.5 text-justify">
-          - Développement d’une application IOS et Android
+          - Développement d’une application mobile
           utilisée par plus de 500 étudiants
         </div>
       </TimelineItem>
@@ -58,30 +58,9 @@ import TimelineItem from "../components/timeline-item.vue";
           </span>
         </h4>
         <div class="mt-0.5 text-justify">
-          - Développement d'une solution domotique "from scratch" pour la
-          gestion à distance des équipements de ma maison,
-          en utilisant un réseau d'une vingtaine de microcontrôleurs
-          interconnectés.<br>
-          - Serveur web hébergé sur un Raspberry Pi
+          - Création d'une solution domotique "from scratch"
         </div>
       </TimelineItem>
-
-      <TimelineItem>
-        <template #date>
-          Été 2022 <br>
-        </template>
-
-        <h4 class="leading-none">
-          <span class="font-bold">
-            Pentest
-          </span>
-        </h4>
-        <div class="mt-0.5 text-justify">
-          - Réalisation de captures the flag sur HackTheBox et VulnHub.
-          CTFs orientés réseau et décompilation
-        </div>
-      </TimelineItem>
-
 
     </Timeline>
 

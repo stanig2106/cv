@@ -51,8 +51,7 @@ import TimelineItem from "../components/timeline-item.vue";
           <a class="underline cursor-help"
              href="https://junior-entreprises.com/"
              target="_blank">
-            Junior Entreprise
-          </a>
+            Junior Entreprise</a>
           de Centrale Lille
         </div>
       </TimelineItem>
@@ -75,8 +74,7 @@ import TimelineItem from "../components/timeline-item.vue";
         </h4>
         <div class="mt-0.5 text-justify">
           - Stage de découverte de l’informatique industrielle <br>
-          - Projet de vision industrielle <br>
-          - Résolution d'un problème ouvert depuis 1 an
+          - Résolution d'un problème complexe en matière de vision industrielle
         </div>
       </TimelineItem>
 
