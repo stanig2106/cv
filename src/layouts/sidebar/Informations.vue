@@ -10,6 +10,9 @@ import SidebarTitle from "../../components/sidebar-title.vue";
       Permis B, véhiculé
     </div>
     <div>
+      Lyon et périphérie
+    </div>
+    <div>
       <a class="underline" href="tel:+33781387107" target="_blank">+33 7 81 38
         71 07</a>
     </div>
