@@ -14,7 +14,6 @@ import TimelineItem from "../components/timeline-item.vue";
         <template #date>
           Avril 2024 <br>
           Avril 2025 <br>
-          (1 an)
         </template>
 
         <h4 class="leading-none">
@@ -25,10 +24,9 @@ import TimelineItem from "../components/timeline-item.vue";
                 du <span class="font-bold">BDE de Centrale Lille</span>
               </span>
         </h4>
-        <div class="mt-0.5">
-          - Gestion des ressources financières de l'association (120 000
-          €/an) <br>
-          - Membre du bureau d'une équipe de 24 personnes
+        <div class="mt-0.5 text-justify">
+          - Membre du bureau, en charge de la gestion des ressources financières
+          de l'association (120 000 €/an)
         </div>
       </TimelineItem>
 
@@ -36,7 +34,6 @@ import TimelineItem from "../components/timeline-item.vue";
         <template #date>
           Janv. 2024 <br>
           Janv. 2025 <br>
-          (1 an)
         </template>
 
         <h4 class="leading-none">
@@ -49,7 +46,7 @@ import TimelineItem from "../components/timeline-item.vue";
                         target="_blank">Centrale Lille Projets</a>
               </span>
         </h4>
-        <div class="mt-0.5">
+        <div class="mt-0.5 text-justify">
           - Encadrement des missions informatiques de la <br>
           <a class="underline cursor-help"
              href="https://junior-entreprises.com/"
@@ -65,7 +62,6 @@ import TimelineItem from "../components/timeline-item.vue";
         <template #date>
           Janv. 2024 <br>
           Fev. 2024 <br>
-          (1 mois)
         </template>
 
         <h4 class="leading-none">
@@ -77,10 +73,10 @@ import TimelineItem from "../components/timeline-item.vue";
                         target="_blank">Hexcel</a> (Les Avenières)
               </span>
         </h4>
-        <div class="mt-0.5">
+        <div class="mt-0.5 text-justify">
           - Stage de découverte de l’informatique industrielle <br>
-          - Résolution d'un problème ouvert depuis 1 an <br>
-          - Projet de vision industrielle
+          - Projet de vision industrielle <br>
+          - Résolution d'un problème ouvert depuis 1 an
         </div>
       </TimelineItem>
 
@@ -88,7 +84,6 @@ import TimelineItem from "../components/timeline-item.vue";
         <template #date>
           Juil. 2021 <br>
           Déc. 2023 <br>
-          (2 ans 6 mois)
         </template>
 
         <h4 class="leading-none">
@@ -100,7 +95,7 @@ import TimelineItem from "../components/timeline-item.vue";
                         target="_blank">Dakatech</a> (Lyon)
               </span>
         </h4>
-        <div class="mt-0.5">
+        <div class="mt-0.5 text-justify">
           - Développement de solutions personnalisées pour l'industrie 4.0
           (mobile et web) <br>
           - Mise en place d'une stratégie CI/CD <br>

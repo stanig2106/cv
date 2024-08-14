@@ -8,7 +8,7 @@ import SidebarTitle from "../../components/sidebar-title.vue";
     <sidebar-title title="Formations"/>
 
     <div>
-      <span class="font-bold text-lg">Centrale Lille</span>
+      <span class="font-bold text-xl">Centrale Lille</span>
       <div class="text-sm text-gray-200">
         Sept. 2023 - Juin 2026
       </div>
@@ -18,7 +18,7 @@ import SidebarTitle from "../../components/sidebar-title.vue";
     </div>
 
     <div class="mt-2">
-      <span class="font-bold text-lg">Université Paris-Cité</span>
+      <span class="font-bold text-xl">Université Paris-Cité</span>
       <div class="text-sm text-gray-200">
         Sept. 2020 - Juin 2023
       </div>

@@ -5,7 +5,7 @@ import SidebarTitle from "../../components/sidebar-title.vue";
 
 <template>
   <div>
-    <sidebar-title title="Intérêts"/>
+    <sidebar-title title="Loisirs"/>
 
     <div>
       Nouvelles technologies, <br>

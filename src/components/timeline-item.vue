@@ -7,7 +7,7 @@
 
 
   <div
-      class="text-sm text-right absolute mt-2 right-[calc(100%-73px)] w-screen">
+      class="text-sm text-right absolute mt-1.5 right-[calc(100%-73px)] w-screen">
     <slot name="date"/>
   </div>
   <div class="bg-white border-sidebar border-[3px]

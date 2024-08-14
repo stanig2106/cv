@@ -22,11 +22,11 @@ import ProjetsPerso from "./layouts/ProjetsPerso.vue";
 
     <Sidebar class="w-[31%] shrink-0"/>
 
-    <div class="text-black w-full p-4 pl-6 overflow-x-hidden">
+    <div class="text-black w-full p-4 px-6 overflow-x-hidden">
       <h1 class="font-extrabold text-5xl">
-        GAM Stani
+        Stani GAM
       </h1>
-      <div class="mt-1">
+      <div class="mt-1 text-justify">
         Ingénieur en formation avec de riches expériences professionnelles et
         des compétences dans de nombreux domaines de l’informatique. Mon
         objectif est de me spécialiser en cybersécurité. Cette ambition me

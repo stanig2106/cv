@@ -12,7 +12,6 @@ import TimelineItem from "../components/timeline-item.vue";
       <TimelineItem>
         <template #date>
           Août. 2024 <br>
-          (1 semaine)
         </template>
 
         <h4 class="leading-none">
@@ -23,7 +22,7 @@ import TimelineItem from "../components/timeline-item.vue";
                target="_blank">Superhack 2024</a>
           </span>
         </h4>
-        <div class="mt-0.5">
+        <div class="mt-0.5 text-justify">
           - Développement d’un SAAS (Software as a Service) en utilisant
           des technologies décentralisées <br>
 <!--          - Projet récompensé par 2 prix -->
@@ -34,7 +33,6 @@ import TimelineItem from "../components/timeline-item.vue";
         <template #date>
           Déc. 2023 <br>
           Mars 2024 <br>
-          (3 mois)
         </template>
 
         <h4 class="leading-none">
@@ -42,7 +40,7 @@ import TimelineItem from "../components/timeline-item.vue";
             Application Centrale Lille
           </span>
         </h4>
-        <div class="mt-0.5">
+        <div class="mt-0.5 text-justify">
           - Développement d’une application IOS et Android
           utilisée par plus de 500 étudiants
         </div>
@@ -52,7 +50,6 @@ import TimelineItem from "../components/timeline-item.vue";
         <template #date>
           Été 2023 <br>
           et 2024 <br>
-          (5 mois)
         </template>
 
         <h4 class="leading-none">
@@ -60,7 +57,7 @@ import TimelineItem from "../components/timeline-item.vue";
             Projet domotique
           </span>
         </h4>
-        <div class="mt-0.5">
+        <div class="mt-0.5 text-justify">
           - Développement d'une solution domotique "from scratch" pour la
           gestion à distance des équipements de ma maison,
           en utilisant un réseau d'une vingtaine de microcontrôleurs
@@ -79,7 +76,7 @@ import TimelineItem from "../components/timeline-item.vue";
             Pentest
           </span>
         </h4>
-        <div class="mt-0.5">
+        <div class="mt-0.5 text-justify">
           - Réalisation de captures the flag sur HackTheBox et VulnHub.
           CTFs orientés réseau et décompilation
         </div>
