@@ -25,11 +25,17 @@ import Formations from "./layouts/Formations.vue";
 
     <div class="text-black w-full p-4 px-6 overflow-x-hidden">
       <div class="mt-1 text-justify">
-        Ingénieur en formation avec de riches expériences professionnelles et
-        des compétences dans de nombreux domaines de l’informatique. Mon
-        objectif est de me spécialiser en cybersécurité. Cette ambition me
-        pousse à rechercher un contrat de professionnalisation dans ce domaine
-        pour la période de septembre 2025 à juin 2026.
+        <!--        Ingénieur en formation avec de riches expériences professionnelles et-->
+        <!--        des compétences dans de nombreux domaines de l’informatique. Mon-->
+        <!--        objectif est de me spécialiser en cybersécurité. Cette ambition me-->
+        <!--        pousse à rechercher un contrat de professionnalisation dans ce domaine-->
+        <!--        pour la période de septembre 2025 à juin 2026.-->
+        Ingénieur en formation avec de nombreuse experiences en développement
+        web. Je cherche, en parallèle de mes études, des missions de freelance
+        de courte durée dans le domaine du développement web pour continuer à
+        affiner mes compétences techniques tout en contribuant à des projets
+        variés et innovants.
+
       </div>
 
       <ExperiencesPro/>
