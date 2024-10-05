@@ -23,7 +23,7 @@ import TimelineItem from "../components/timeline-item.vue";
           </span>
         </h4>
         <div class="text-justify">
-          - Projet récompensé par 1 prix
+          - Projet récompensé par le jury
         </div>
       </TimelineItem>
 
