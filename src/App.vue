@@ -4,6 +4,14 @@ import ExperiencesPro from "./layouts/ExperiencesPro.vue";
 import ProjetsPerso from "./layouts/ProjetsPerso.vue";
 import Formations from "./layouts/Formations.vue";
 
+function isMobile(): boolean {
+  const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+  return /android|webos|iphone|ipad|ipod|blackberry|iemobile|opera mini/i.test(userAgent.toLowerCase());
+}
+
+if (window.innerWidth < 768 || isMobile())
+  window.location.href = "/CV Stani Gam.pdf"
+
 </script>
 
 <template>

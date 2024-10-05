@@ -12,6 +12,28 @@ import TimelineItem from "../components/timeline-item.vue";
     <Timeline>
       <TimelineItem>
         <template #date>
+          Oct. 2024 <br>
+          Présent<br>
+        </template>
+
+        <h4 class="leading-none">
+          <span class="font-bold">
+            Développeur web
+          </span>
+          <span class="text-base text-muted">
+                chez <a class="font-bold"
+                    href="https://www.linkedin.com/company/taftavie"
+                    target="_blank">Taftavie</a>
+              </span>
+        </h4>
+        <div class="mt-0.5 text-justify">
+          - Développement de l'application mobile
+        </div>
+      </TimelineItem>
+
+
+      <TimelineItem>
+        <template #date>
           Avril 2024 <br>
           Avril 2025 <br>
         </template>

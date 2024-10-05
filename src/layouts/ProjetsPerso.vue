@@ -16,15 +16,13 @@ import TimelineItem from "../components/timeline-item.vue";
 
         <h4 class="leading-none">
           <span class="font-bold">
-            Hackathon
+            Hackathon web3
             <a class="font-bold text-base text-muted"
                href="https://ethglobal.com/showcase/veripay-9dfo1"
                target="_blank">Superhack 2024</a>
           </span>
         </h4>
         <div class="text-justify">
-          - Développement d’un SAAS (Software as a Service)
-          en utilisant des technologies décentralisées <br>
           - Projet récompensé par 1 prix
         </div>
       </TimelineItem>

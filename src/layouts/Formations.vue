@@ -24,8 +24,8 @@ import TimelineItem from "../components/timeline-item.vue";
           </span>
         </h4>
         <div class="mt-0.5 text-justify">
-          - Formation d'ingénieur généraliste avec un focus sur les sciences de
-          l'ingénieur, l'innovation, et la gestion de projets
+          - Formation d'ingénieur généraliste avec un focus sur
+            l'innovation, et la gestion de projets
         </div>
       </TimelineItem>
 
