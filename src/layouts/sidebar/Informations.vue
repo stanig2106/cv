@@ -5,12 +5,12 @@ import SidebarTitle from "../../components/sidebar-title.vue";
 </script>
 <template>
   <div>
-    <sidebar-title title="Informations"/>
+    <sidebar-title title="Information"/>
     <div>
-      Permis B, véhiculé
+      Driver's License B, owns a vehicle
     </div>
     <div>
-      Lyon et périphérie
+      Lyon and surrounding areas
     </div>
     <div>
       <a class="underline" href="tel:+33781387107" target="_blank">+33 7 81 38

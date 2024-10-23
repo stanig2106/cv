@@ -6,119 +6,119 @@ import TimelineItem from "../components/timeline-item.vue";
 </script>
 <template>
   <div class="mt-2">
-    <Title title="Expériences professionnelles"/>
+    <Title title="Professional Experiences"/>
 
 
     <Timeline>
       <TimelineItem>
         <template #date>
           Oct. 2024 <br>
-          Présent<br>
+          Now<br>
         </template>
 
         <h4 class="leading-none">
           <span class="font-bold">
-            Développeur web
+            Web Developer
           </span>
           <span class="text-base text-muted">
-                chez <a class="font-bold"
-                    href="https://www.linkedin.com/company/taftavie"
-                    target="_blank">Taftavie</a>
+                at <a class="font-bold"
+                      href="https://www.linkedin.com/company/taftavie"
+                      target="_blank">Taftavie</a>
               </span>
         </h4>
         <div class="mt-0.5 text-justify">
-          - Développement de l'application mobile
+          - Mobile application development
         </div>
       </TimelineItem>
 
 
       <TimelineItem>
         <template #date>
-          Avril 2024 <br>
-          Avril 2025 <br>
+          April 2024 <br>
+          April 2025 <br>
         </template>
 
         <h4 class="leading-none">
           <span class="font-bold">
-            Trésorier
+            Treasurer
           </span>
           <span class="text-base text-muted">
-                du <span class="font-bold">BDE de Centrale Lille</span>
+                of <span class="font-bold">Centrale Lille Student Union</span>
               </span>
         </h4>
         <div class="mt-0.5 text-justify">
-          - Membre du bureau, en charge de la gestion des ressources financières
-          de l'association (120 000 €/an)
+          - Member of the executive board, responsible for managing the
+          association's financial resources (€120,000/year)
         </div>
       </TimelineItem>
 
       <TimelineItem>
         <template #date>
-          Janv. 2024 <br>
-          Janv. 2025 <br>
+          Jan. 2024 <br>
+          Jan. 2025 <br>
         </template>
 
         <h4 class="leading-none">
           <span class="font-bold">
-            Directeur métier informatique <br>
-          </span>
+            IT Director
+          </span> <br>
           <span class="text-base text-muted">
-                chez <a class="font-bold"
-                        href="https://www.centralelilleprojets.fr/"
-                        target="_blank">Centrale Lille Projets</a>
+                at <a class="font-bold"
+                      href="https://www.centralelilleprojets.fr/"
+                      target="_blank">Centrale Lille Projets</a>
               </span>
         </h4>
         <div class="mt-0.5 text-justify">
-          - Encadrement des missions informatiques de la <br>
+          - Supervision of IT missions for <br>
           <a class="underline cursor-help"
              href="https://junior-entreprises.com/"
              target="_blank">
-            Junior Entreprise</a>
-          de Centrale Lille
+            Junior Enterprise</a>
+          of Centrale Lille
         </div>
       </TimelineItem>
 
 
       <TimelineItem>
         <template #date>
-          Janv. 2024 <br>
-          Fev. 2024 <br>
+          Jan. 2024 <br>
+          Feb. 2024 <br>
         </template>
 
         <h4 class="leading-none">
           <span class="font-bold">
-            Technicien informatique industrielle
+            Industrial IT Technician
           </span> <br>
           <span class="text-base text-muted">
-                chez <a class="font-bold" href="https://fr.hexcel.com/"
-                        target="_blank">Hexcel</a> (Les Avenières)
+                at <a class="font-bold" href="https://fr.hexcel.com/"
+                      target="_blank">Hexcel</a> (Les Avenières)
               </span>
         </h4>
         <div class="mt-0.5 text-justify">
-          - Stage de découverte de l’informatique industrielle <br>
-          - Résolution d'un problème complexe en matière de vision industrielle
+          - Introduction to industrial IT through an internship <br>
+          - Solving a complex issue in industrial vision systems
         </div>
       </TimelineItem>
 
       <TimelineItem>
         <template #date>
-          Juil. 2021 <br>
-          Déc. 2023 <br>
+          July 2021 <br>
+          Dec. 2023 <br>
         </template>
 
         <h4 class="leading-none">
           <span class="font-bold">
-            Développeur full stack
+            Full Stack Developer
           </span> <br>
           <span class="text-base text-muted">
-                chez <a class="font-bold" href="https://dakatech.fr/"
-                        target="_blank">Dakatech</a> (Lyon)
+                at <a class="font-bold" href="https://dakatech.fr/"
+                      target="_blank">Dakatech</a> (Lyon)
               </span>
         </h4>
         <div class="mt-0.5 text-justify">
-          - Développement de solutions personnalisées pour l'industrie 4.0
-          (mobile et web) <br>
-          - Mise en place d'une stratégie CI/CD <br>
+          - Development of customized solutions for Industry 4.0 (mobile and
+          web) <br>
+          - Implementation of a CI/CD strategy <br>
         </div>
       </TimelineItem>
 

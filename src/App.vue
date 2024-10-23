@@ -18,7 +18,7 @@ if (window.innerWidth < 768 || isMobile())
 <template>
   <a download="CV Stani Gam.pdf" href="/CV Stani Gam.pdf">
     <button class="hidden absolute top-0 left-0 m-4 btn btn-info lg:block">
-      Télécharger le cv
+      Download CV
     </button>
   </a>
 
@@ -26,7 +26,7 @@ if (window.innerWidth < 768 || isMobile())
     <a download="CV Stani Gam.pdf" href="/CV Stani Gam.pdf">
       <button class="absolute m-4 btn btn-info btn-sm top-0 right-0 print:hidden
             lg:hidden">
-        Télécharger le cv
+        Download CV
       </button>
     </a>
 
@@ -34,11 +34,10 @@ if (window.innerWidth < 768 || isMobile())
 
     <div class="text-black w-full p-4 px-6 overflow-x-hidden">
       <div class="mt-1 text-justify">
-        Ingénieur en formation avec de nombreuse experiences en développement
-        web. Je cherche, en parallèle de mes études, des missions de freelance
-        de courte durée dans le domaine du développement web pour continuer à
-        affiner mes compétences techniques tout en contribuant à des projets
-        variés et innovants.
+        Engineering student with extensive experience in web development. I am
+        seeking short-term freelance assignments in web development alongside my
+        studies to continue refining my technical skills while contributing to
+        diverse and innovative projects.
       </div>
 
       <ExperiencesPro/>

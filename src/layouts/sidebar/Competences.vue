@@ -5,7 +5,7 @@ import SidebarTitle from "../../components/sidebar-title.vue";
 
 <template>
   <div>
-    <sidebar-title title="Compétences"/>
+    <sidebar-title title="Skills"/>
 
     <div>
       <div class="font-bold">Web</div>
@@ -23,24 +23,20 @@ import SidebarTitle from "../../components/sidebar-title.vue";
         Java, Swift, PWA
       </div>
 
-      <div class="font-bold mt-2">Bas niveau</div>
+      <div class="font-bold mt-2">Low-level</div>
       <div>
         C, C++, Arduino, Automates
       </div>
 
-      <div class="font-bold mt-2">Réseau</div>
+      <div class="font-bold mt-2">Networking</div>
       <div>
         Nginx, Docker, AWS, Linux
       </div>
 
       <div class="font-bold mt-2">Soft skills</div>
       <div>
-        Curieux, autonome, gestion du stress, adaptabilité
+        Curious, autonomous, stress management, adaptability
       </div>
-
-
     </div>
-
-
   </div>
 </template>

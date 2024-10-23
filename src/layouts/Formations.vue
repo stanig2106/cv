@@ -6,13 +6,13 @@ import TimelineItem from "../components/timeline-item.vue";
 </script>
 <template>
   <div class="mt-2">
-    <Title title="Formations Académiques"/>
+    <Title title="Academic Background"/>
 
     <Timeline>
       <TimelineItem>
         <template #date>
           Sept. 2023 <br>
-          Juin 2026 <br>
+          June 2026 <br>
         </template>
 
         <h4 class="leading-none">
@@ -20,19 +20,19 @@ import TimelineItem from "../components/timeline-item.vue";
             Centrale Lille
           </span>
           <span class="text-base text-muted">
-                - Cursus d'ingénieur généraliste
+                - General Engineering Program
           </span>
         </h4>
         <div class="mt-0.5 text-justify">
-          - Formation d'ingénieur généraliste avec un focus sur
-            l'innovation, et la gestion de projets
+          - General engineering education with a focus on innovation and project
+          management
         </div>
       </TimelineItem>
 
       <TimelineItem>
         <template #date>
           Sept. 2020 <br>
-          Juin 2023 <br>
+          June 2023 <br>
         </template>
 
         <h4 class="leading-none">
@@ -40,11 +40,11 @@ import TimelineItem from "../components/timeline-item.vue";
             Université Paris-Cité
           </span> <br>
           <span class="text-base text-muted">
-                Double licence en mathématiques et informatique
+                Double Bachelor's Degree in Mathematics and Computer Science
           </span>
         </h4>
         <div class="mt-0.5 text-justify">
-          - Double diplôme avec mention Bien
+          - Double degree with honors
         </div>
       </TimelineItem>
 

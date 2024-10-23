@@ -6,57 +6,56 @@ import TimelineItem from "../components/timeline-item.vue";
 </script>
 <template>
   <div>
-    <Title title="Projets personnels"/>
+    <Title title="Personal Projects"/>
 
     <Timeline>
       <TimelineItem>
         <template #date>
-          Août. 2024 <br>
+          Aug. 2024 <br>
         </template>
 
         <h4 class="leading-none">
           <span class="font-bold">
-            Hackathon web3
+            Web3 Hackathon
             <a class="font-bold text-base text-muted"
                href="https://ethglobal.com/showcase/veripay-9dfo1"
                target="_blank">Superhack 2024</a>
           </span>
         </h4>
         <div class="text-justify">
-          - Projet récompensé par le jury
+          - Project awarded by the jury
         </div>
       </TimelineItem>
 
       <TimelineItem>
         <template #date>
-          Déc. 2023 <br>
-          Mars 2024 <br>
+          Dec. 2023 <br>
+          March 2024 <br>
         </template>
 
         <h4 class="leading-none">
           <span class="font-bold">
-            Application Centrale Lille
+            Centrale Lille App
           </span>
         </h4>
         <div class="mt-0.5 text-justify">
-          - Développement d’une application mobile
-          utilisée par plus de 500 étudiants
+          - Development of a mobile application used by more than 500 students
         </div>
       </TimelineItem>
 
       <TimelineItem>
         <template #date>
-          Été 2023 <br>
-          et 2024 <br>
+          Summer 2023 <br>
+          and 2024 <br>
         </template>
 
         <h4 class="leading-none">
           <span class="font-bold">
-            Projet domotique
+            Home Automation Project
           </span>
         </h4>
         <div class="mt-0.5 text-justify">
-          - Création d'une solution domotique "from scratch"
+          - Creation of a home automation solution from scratch
         </div>
       </TimelineItem>
 

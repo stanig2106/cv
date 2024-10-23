@@ -5,13 +5,11 @@ import SidebarTitle from "../../components/sidebar-title.vue";
 
 <template>
   <div>
-    <sidebar-title title="Loisirs"/>
+    <sidebar-title title="Hobbies"/>
 
     <div>
-      Nouvelles technologies, <br>
-      cuisine, boxe anglaise
+      New technologies, <br>
+      cooking, boxing
     </div>
-
-
   </div>
 </template>
