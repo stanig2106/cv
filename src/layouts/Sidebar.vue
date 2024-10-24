@@ -10,7 +10,7 @@ import Interets from "./sidebar/Interets.vue";
 <template>
   <div
       class="bg-sidebar flex flex-col pl-4 pr-3 p-2 text-white border-r-4 border-sidebar">
-    <img :src="pp" alt="profile" class="px-12 self-center mt-1">
+    <img :src="pp" alt="profile" class="px-12 mt-4 self-center">
 
     <div class="flex flex-col gap-8 mt-4">
       <h1 class="font-extrabold text-4xl text-center">
