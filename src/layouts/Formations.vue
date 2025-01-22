@@ -5,7 +5,7 @@ import TimelineItem from "../components/timeline-item.vue";
 
 </script>
 <template>
-  <div class="mt-4">
+  <div class="mt-2">
     <Title title="Formations Académiques"/>
 
     <Timeline>
