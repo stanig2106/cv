@@ -5,7 +5,7 @@ import TimelineItem from "../components/timeline-item.vue";
 
 </script>
 <template>
-  <div>
+  <div class="mt-4">
     <Title title="Projets personnels"/>
 
     <Timeline>

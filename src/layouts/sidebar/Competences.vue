@@ -10,7 +10,7 @@ import SidebarTitle from "../../components/sidebar-title.vue";
     <div>
       <div class="font-bold">Web</div>
       <div>
-        Ruby on Rails, VueJS, TailwindCSS, TypeScript, PHP, pSQL, Heroku, React
+        Ruby on Rails, VueJS, TailwindCSS, TypeScript, PHP, pSQL, NuxtJS, React
       </div>
 
       <div class="font-bold mt-2">Web 3 - blockchain</div>

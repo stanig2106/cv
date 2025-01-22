@@ -33,7 +33,7 @@ if (window.innerWidth < 768 || isMobile())
     <Sidebar class="w-[31%] shrink-0"/>
 
     <div class="text-black w-full p-4 px-6 overflow-x-hidden">
-      <div class="mt-1 text-justify">
+      <div class="mt-2 text-justify">
         Ingénieur en formation avec de riches expériences professionnelles et
         des compétences dans de nombreux domaines de l’informatique. Mon
         objectif est de me spécialiser en cybersécurité. Cette ambition me
