@@ -10,7 +10,7 @@ import SidebarTitle from "../../components/sidebar-title.vue";
       Permis B, véhiculé
     </div>
     <div>
-      Lyon et périphérie
+      Paris et périphérie
     </div>
     <div>
       <a class="underline" href="tel:+33781387107" target="_blank">+33 7 81 38
@@ -24,7 +24,7 @@ import SidebarTitle from "../../components/sidebar-title.vue";
     <div class="mt-0.5">
       <a class="flex items-center gap-2"
          href="https://www.linkedin.com/in/stani-gam" target="_blank">
-        <img :src="linkedin" alt="LinkedIn" class="w-5 h-5 inline-block">
+        <img :src="linkedin" alt="LinkedIn" class="inline-block h-5 w-5">
         <div class="underline">
           Stani Gam
         </div>
@@ -34,7 +34,7 @@ import SidebarTitle from "../../components/sidebar-title.vue";
     <div class="mt-0.5">
       <a class="flex items-center gap-2"
          href="https://github.com/stanig2106" target="_blank">
-        <img :src="github" alt="GitHub" class="w-5 h-5 inline-block">
+        <img :src="github" alt="GitHub" class="inline-block h-5 w-5">
         <div class="underline">
           stanig2106
         </div>
@@ -44,7 +44,7 @@ import SidebarTitle from "../../components/sidebar-title.vue";
       <a class="flex items-center gap-2"
          href="https://folio.gam-s.fr" target="_blank">
 
-        <svg class="w-5 h-5 inline-block fill-white" viewBox="0 0 24 24"
+        <svg class="inline-block h-5 w-5 fill-white" viewBox="0 0 24 24"
              xmlns="http://www.w3.org/2000/svg"><title>
           library-outline</title>
           <path

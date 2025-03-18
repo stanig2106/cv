@@ -8,7 +8,7 @@ import SidebarTitle from "../../components/sidebar-title.vue";
     <sidebar-title title="Langues"/>
 
     <div>
-      Français : Langue maternelle <br>
+      Français : Natif <br>
       Anglais : Avancé <br>
       Arabe dialectal : Avancé
     </div>

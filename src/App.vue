@@ -11,39 +11,36 @@ function isMobile(): boolean {
 }
 
 if (window.innerWidth < 768 || isMobile())
-    window.location.href = "/CV Stani Gam.pdf"
+    window.location.href = "/CV Stani GAM.pdf"
 
 </script>
 
 <template>
-    <a download="CV Stani Gam.pdf" href="/CV Stani Gam.pdf">
-        <button class="hidden absolute top-0 left-0 m-4 btn btn-info lg:block">
+    <a download="CV Stani GAM.pdf" href="/CV Stani GAM.pdf">
+        <button class="absolute top-0 left-0 m-4 hidden btn btn-info lg:block">
             Télécharger le cv
         </button>
     </a>
 
-    <div class="flex items-stretch w-full h-full relative">
-        <a download="CV Stani Gam.pdf" href="/CV Stani Gam.pdf">
+    <div class="relative flex h-full w-full items-stretch">
+        <a download="CV Stani GAM.pdf" href="/CV Stani GAM.pdf">
             <button class="absolute m-4 btn btn-info btn-sm top-0 right-0 print:hidden
             lg:hidden">
                 Télécharger le cv
             </button>
         </a>
 
-        <Sidebar class="w-[31%] shrink-0"/>
+        <Sidebar class="shrink-0 w-[31%]"/>
 
-        <div class="text-black w-full p-4 px-5 overflow-x-hidden">
-            <div class="mt-0 text-justify">
-                Ingénieur en formation avec de riches expériences
-                professionnelles et
-                des compétences dans de nombreux domaines de l’informatique. Mon
-                objectif est de me spécialiser en <b>systèmes
-                et réseaux</b>, notamment dans la gestion des infrastructures et
-                la
-                sécurité informatique. Cette ambition me
-                pousse à rechercher un <b>contrat de professionnalisation</b>
-                dans ce
-                domaine pour la période de <b>septembre 2025 à juin 2026</b>.
+        <div class="w-full overflow-hidden p-4 px-5 text-black">
+            <div class="mb-2 text-justify" style="text-indent: 2em;">
+                Étudiant ingénieur à Centrale Lille, avec de
+                solides expériences en développement full-stack et gestion
+                d’infrastructures IT. Je développe actuellement un ERP SaaS dédié
+                aux CFA. Je souhaite obtenir le Statut National
+                Étudiant-Entrepreneur (SNEE) pour structurer
+                et accélérer ce projet, en bénéficiant d’un accompagnement et
+                d’un réseau d’experts.
             </div>
 
             <ExperiencesPro/>
@@ -78,7 +75,7 @@ if (window.innerWidth < 768 || isMobile())
 
 html {
   font-family: Helvetica, sans-serif;
-  font-size: 12pt;
+  font-size: 10.5pt;
   line-height: 1.3;
   @apply flex flex-center;
 }
@@ -87,7 +84,7 @@ body {
   // set size of a a4 page
   height: 297mm;
   width: 210mm;
-  @apply bg-white m-4 shrink-0;
+  @apply m-4 shrink-0 bg-white;
 }
 
 #app {

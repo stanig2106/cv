@@ -4,7 +4,7 @@ import Timeline from "../components/timeline.vue";
 import TimelineItem from "../components/timeline-item.vue";
 </script>
 <template>
-    <div class="mt-2">
+    <div class="mt-3">
         <Title title="Expériences professionnelles"/>
 
 
@@ -25,9 +25,12 @@ import TimelineItem from "../components/timeline-item.vue";
                         target="_blank">Campus privé</a>
               </span>
                 </h4>
-                <div class="mt-0.5 text-justify">
-                    - Développement d’un CMS moderne pour la gestion des
-                    apprenants, des entreprises et des contrats.
+                <div class="text-justify mt-0.5">
+                    Développement et déploiement d’un CMS pour la gestion des
+                    contrats et des entreprises, avec une infrastructure
+                    scalable basée sur Docker et CI/CD, optimisant
+                    l’automatisation des déploiements et la gestion des
+                    environnements.
                 </div>
             </TimelineItem>
 
@@ -38,17 +41,18 @@ import TimelineItem from "../components/timeline-item.vue";
                 </template>
 
                 <h4 class="leading-none">
-          <span class="font-bold">
-            Développeur web
-          </span>
+                  <span class="font-bold">
+                    Développeur front end
+                  </span>
                     <span class="text-base text-muted">
-                chez <a class="font-bold"
-                        href="https://www.linkedin.com/company/taftavie"
-                        target="_blank">Taftavie</a>
-              </span>
+                    chez <a class="font-bold"
+                            href="https://www.linkedin.com/company/taftavie"
+                            target="_blank">Taftavie</a>
+                  </span>
                 </h4>
-                <div class="mt-0.5 text-justify">
-                    - Développement de l'application mobile
+                <div class="text-justify mt-0.5">
+                    Développement d’une application mobile en React, avec
+                    intégration d’API et optimisation des performances.
                 </div>
             </TimelineItem>
 
@@ -67,10 +71,9 @@ import TimelineItem from "../components/timeline-item.vue";
                 du <span class="font-bold">BDE de Centrale Lille</span>
               </span>
                 </h4>
-                <div class="mt-0.5 text-justify">
-                    - Membre du bureau, en charge de la gestion des ressources
-                    financières
-                    de l'association (120 000 €/an)
+                <div class="text-justify mt-0.5">
+                    Membre du bureau, en charge de la gestion des ressources
+                    financières de l'association (120 000 €/an)
                 </div>
             </TimelineItem>
 
@@ -90,9 +93,9 @@ import TimelineItem from "../components/timeline-item.vue";
                         target="_blank">Hexcel</a> (Les Avenières)
               </span>
                 </h4>
-                <div class="mt-0.5 text-justify">
-                    - Stage de découverte de l’informatique industrielle <br>
-                    - Résolution d'un problème complexe en matière de vision
+                <div class="text-justify mt-0.5">
+                    Stage de découverte de l’informatique industrielle <br>
+                    Résolution d'un problème complexe en matière de vision
                     industrielle
                 </div>
             </TimelineItem>
@@ -112,11 +115,11 @@ import TimelineItem from "../components/timeline-item.vue";
                         target="_blank">Dakatech</a> (Lyon)
               </span>
                 </h4>
-                <div class="mt-0.5 text-justify">
-                    - Développement de solutions personnalisées pour l'industrie
-                    4.0
-                    (mobile et web) <br>
-                    - Mise en place d'une stratégie CI/CD <br>
+                <div class="text-justify mt-0.5">
+                    Développement de solutions pour l’industrie 4.0 avec une
+                    approche DevOps : mise en place de pipelines CI/CD,
+                    conteneurisation des applications et sécurisation des
+                    environnements de production.
                 </div>
             </TimelineItem>
 
